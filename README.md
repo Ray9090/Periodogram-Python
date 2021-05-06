@@ -24,3 +24,9 @@ Here we created a signal with a sine and a cosine wave.  The periodogram plot sh
 
 ![image](https://user-images.githubusercontent.com/58274552/117357540-5bf49000-aeb5-11eb-83d0-8e46eee8d3c4.png)
 
+Reference :
+
+1.	https://en.wikipedia.org/wiki/Periodogram
+2.	https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.periodogram.html
+3.	https://www.kite.com/python/docs/scipy.signal.periodogram
+
